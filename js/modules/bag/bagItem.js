@@ -12,4 +12,5 @@ function printBagItem(item) {
     `
 }
 
+
 export default printBagItem
